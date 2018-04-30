@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Another RSS</string>
+    <string name="rss_url">Zdroje</string>
+    <string name="rss_url_desc">Zadajte cestu k rss/atom zdrojom</string>
+    <string name="rss_sec">Časovač</string>
+    <string name="rss_sec_desc">Kontrolovať zdroje každých ... minút</string>
+    <string name="feedCheck">Skúsiť skontrolovať zdroje</string>
+    <string name="preferences">Možnosti</string>
+    <string name="notify_type_title">LED notifikácia</string>
+    <string name="notify_type_desc">Kontrola chovania LED</string>
+    <string name="notify_color_title">farba</string>
+    <string name="notify_color_desc">Zmeniť farbu LED</string>
+    <string name="tap_behaviour">Reakcia na dotyk</string>
+    <string name="tap_behaviour_desc">Zmeniť reakciu na krátky dotyk.\n
+    \"otvoriť\" je alternatívny mód</string>
+    <string name="delNotifies">Vymazať upozornenia</string>
+    <string name="readedFeeds">Označiť všetky zdroje ako prečítané</string>
+    <string name="delFeeds">Vymazať všetky zdroje</string>
+    <string name="delDb">Zničiť všetky zdroje (LADENIE)</string>
+    <string name="noData">Žiadne dáta</string>
+    <string name="dateForm">HH:mm</string>
+    <string name="dateForm2">MM/dd</string>
+
+    <string name="notify_sound_title">Zvuk</string>
+    <string name="notify_sound_desc">Zmeniť zvuk</string>
+
+    <string name="open">Otvoriť v prehliadači</string>
+    <string name="delete">Vymazať</string>
+    <string name="destroy">Znič (LADENIE)</string>
+
+    <string name="no_readed">(ne)prečítané</string>
+    <string name="deleted">vymazané</string>
+    <string name="destroyed">zničené</string>
+
+    <string name="rssUrlWrong">Váš zdroj má nesprávnu URL</string>
+    <string name="noConnection">Nemožno sa pripojiť na stránku alebo internet</string>
+    <string name="newFeeds">Nové zdroje</string>
+    <string name="responseStrange">Odpoveď URL je zvláštna</string>
+    <string name="waitOnNextSync">Žiadne nové správy ...</string>
+
+    <string name="serviceHasNews">de.digisocken.anotherrss.ALARM_HAS_NEWS</string>
+    <string name="nightmode">Nočný režim (dobrý v Androide > 6)</string>
+    <string name="nightmode_summary">Prispôsobiť tému pre tmavé prostredie ako napríklad v noci</string>
+    <string name="nightmode_use">Povoliť nočný režim</string>
+    <string name="nightmode_use_start">Začiatok (24 hod. formát, len hodina)</string>
+    <string name="nightmode_use_stop">Koniec (24 hod. formát, len hodina)</string>
+
+    <string name="blacklist">Čierna listina (oddeliť čiarkou)</string>
+    <string name="blacklist_desc">Nové správy obsahujúce tieto znaky budú ignorované</string>
+
+    <string name="searching">Hľadať</string>
+    <string name="action_search">hľadať</string>
+    <string name="start_search">Zadajte kľúčové slovo</string>
+    <string name="close_search">koniec vyhľadávania</string>
+
+    <string name="favorite">Označiť ako obľúbené</string>
+    <string name="nofavorite">Neoznačiť ako obľúbené</string>
+
+    <string name="cleanup">Vyčistiť</string>
+    <string name="removeNonFav">Automaticky vymazať</string>
+    <string name="removeNonFav_summary">Zdroje neoznačené ako obľúbené budú vymazané po _ dňoch</string>
+
+    <string name="share">Zdieľať s ...</string>
+
+    <string name="flattr_this">Mikro-dotácia!</string>
+    <string name="projPage">Stránka projektu</string>
+
+    <string name="kB_used">kB použitých</string>
+    <string name="info">Info</string>
+    <string name="zoom">Priblíženie a mierka</string>
+
+    <string name="bigger">+ Text</string>
+    <string name="smaller">- Text</string>
+    <string name="biggerImage">+ Obrázok</string>
+    <string name="smallerImage">- Obrázok</string>
+
+    <string name="offline_hint">offline/tip pre opakovanie</string>
+    <string name="offline_hint_summary">Bez pripojenia nefungujú oznámenia, nápovedy o aktualizovaní ani prijímanie správ.</string>
+
+    <string name="more">Viac...</string>
+    <string name="regex">Regulárne výrazy</string>
+    <string name="regex_desc">Toto je len pre expertov. Chyby sú (vačšinou) skryté. REGEXY sú aplikované na titulky a telo pred blacklistom.</string>
+    <string name="regex_all">Nahradiť výraz:</string>
+    <string name="regex_to">za:</string>
+
+
+
+
+
+
+
+
+
+
+</resources>
